@@ -24,5 +24,4 @@ The project successfully creates a functional Hangman game. It demonstrates basi
 ### Accuracy
 The game's output is accurate in determining win/loss conditions, updating the game state based on user input, and displaying the hangman figure. The accuracy of the game depends on the correctness of the word selection and input handling logic.
  
-**Note:** For a more in-depth analysis, metrics like average game length, win rate, or user feedback could be collected and analyzed. 
 
