@@ -1,0 +1,13 @@
+ How Hangman Works
+
+1. Word Selection: The game randomly picks a word from a predefined list.
+2. Display: The game displays a series of underscores, representing each letter in the word.
+3. Guessing: The player takes turns guessing letters.
+4. Correct Guess: If the guessed letter is in the word, its position(s) are revealed.
+5. Incorrect Guess: If the guessed letter is not in the word, the player loses a life.
+6. Lives: The player typically starts with a set number of lives (e.g., 6).
+7. Hangman Visualization: With each incorrect guess, a part of a stick figure is drawn, representing the hanged man.
+8. Win Condition: The player wins if they correctly guess all letters before running out of lives.
+9. Loss Condition: The player loses if the hangman is fully drawn before the word is guessed.
+ 
+The game continues until either the player wins or loses. 
