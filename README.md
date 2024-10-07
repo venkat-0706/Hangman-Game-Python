@@ -9,6 +9,9 @@ The Hangman game was implemented using Python programming language. The core log
 * Updating the game state based on correct or incorrect guesses.
 * Implementing win/loss conditions.
 
+ ### How it works
+ ![hang man game](https://github.com/user-attachments/assets/f1fcb152-143f-46c6-a0da-8d22d65b28c9)
+
 ### Efficiency
 The project prioritizes readability and maintainability over extreme performance optimization. The use of data structures like lists and strings for word representation and game state management is efficient for this scale.
 
